@@ -1,43 +1,43 @@
-Staffel,Teilnehmerin,Platz,Alter,Größe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist,Hips,Dress,Shoes
-1,Lena Gercke,1,17,178,blond,blau,,90,62,90,36,39
-1,Yvonne Schröder,2,17,174,blond,blau,,,,,,
-1,Jennifer Wanderer,3,17,178,braun,,,,,,,
-1,Janina Ortmann ,4,20,173,blond,grün,,85,59,89,,40
-1,Lena Meier ,5,20,180,braun,grün,,84,60,88,36,40
-1,Charlotte Offeney ,5,18,183,,,,,,,,
-1,Luise Mikulla ,7,16,175,,,,,,,,
-1,Micaela Schäfer ,8,22,175,,,,,,,,
-1,Rahel Krüger ,9,20,170,,,,,,,,
-1,Céline Roscheck,10,22,182,,,,,,,,
-1,Andrea Lichtenberg ,11,19,178,,,,,,,,
-1,Anne Mühlmeier ,11,17,175,,,,,,,,
-2,Barbara Meier ,1,20,174,,,,,,,,
-2,Anni Wendler ,2,21,177,,,,,,,,
-2,Hana Nitsche ,3,21,172,,,,,,,,
-2,Fiona Erdmann ,4,18,174,,,,,,,,
-2,Mandy Graff ,4,18,179,,,,,,,,
-2,Anja Platzer ,6,19,183,,,,,,,,
-2,Michaela Saskia „Milla“,7,20,175,,,,,,,,
-2,Tonia Michaely,8,19,182,,,,,,,,
-2,Aneta Tober ,8,20,175,,,,,,,,
-2,Denise Dahinten,10,19,172,,,,,,,,
-2,Alla Kosovan ,11,18,177,,,,,,,,
-2,Janina Cüpper ,12,21,183,,,,,,,,
-2,Antje Pötke ,13,22,180,,,,,,,,
-2,Enyerlina Sanchez ,15,25,183,,,,,,,,
-2,Janine Mackenroth ,15,18,173,,,,,,,,
-3,Jennifer Hof ,1,16,180,,,,,,,,
-3,Janina Delia Schmidt ,2,24,177,,,,,,,,
-3,Christina Leibold ,3,21,175,,,,,,,,
-3,Carolin Ruppert ,4,24,174,,,,,,,,
-3,Wanda Badwal ,4,23,173,,,,,,,,
-3,Gisele Oppermann ,6,20,174,,,,,,,,
-3,Raquel Deborah Alvarez ,7,22,180,,,,,,,,
-3,Sarah Knappik ,8,21,178,,,,,,,,
-3,Anna Vanessa Hegelmaier,9,20,178,,,,,,,,
-3,Sophia Maus ,10,19,179,,,,,,,,
-3,Bianca Schumacher ,11,20,173,,,,,,,,
-3,Gina-Lisa Lohfink ,12,21,171,,,,,,,,
+ï»¿Staffel,Teilnehmerin,Platz,Alter,GrÃ¶ÃŸe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist,Hips,Dress,Shoes
+1,Lena Gercke,1,17,178,blond,blau,hell,90,62,90,36,39
+1,Yvonne SchrÃ¶der,2,17,174,blond,blau,hell,,,,,
+1,Jennifer Wanderer,3,17,178,braun,,hell,,,,,
+1,Janina Ortmann ,4,20,173,blond,grÃ¼n,hell,85,59,89,,40
+1,Lena Meier ,5,20,180,braun,grÃ¼n,hell,83,61,89,36,40
+1,Charlotte Offeney ,5,18,183,,,hell,88,64,80,,
+1,Luise Mikulla ,7,16,175,blond,grau/grÃ¼n,hell,86,66,85,,
+1,Micaela SchÃ¤fer ,8,22,175,,,hell,85,60,90,,
+1,Rahel KrÃ¼ger ,9,20,170,,,hell,85,62,83,,
+1,CÃ©line Roscheck,10,22,182,braun,,hell,90,62,92,,
+1,Andrea Lichtenberg ,11,19,179,braun,blau,hell,85,60,88,34,40
+1,Anne MÃ¼hlmeier ,11,17,175,braun,grÃ¼n,hell,81,62,85,,
+2,Barbara Meier ,1,20,174,rot,blau,hell,81,61,94,36,37
+2,Anni Wendler ,2,21,177,blond,blau,hell,85,59,92,,
+2,Hana Nitsche ,3,21,172,dunkelbraun,blau/grÃ¼n,hell,85,59,89,36,37
+2,Fiona Erdmann ,4,18,174,braun,grÃ¼n,hell,84,61,93,36,39
+2,Mandy Graff ,4,18,179,blond,blau,hell,85,63,91,36,38
+2,Anja Platzer ,6,19,183,braun,braun,hell,84,62,88,36,39
+2,Michaela Saskia â€žMillaâ€œ,7,20,175,dunkelbraun,braun,hell,86,61,88,34,39
+2,Tonia Michaely,8,19,182,blond,blau,hell,89,69,97,,
+2,Aneta Tober ,8,20,175,dunkelbraun,grÃ¼n,hell,83,61,80,36,39
+2,Denise Dahinten,10,19,172,braun,braun,hell,86,65,91,,
+2,Alla Kosovan ,11,18,177,braun,braun,hell,85,66,94,,
+2,Janina-Catharina KÃ¼pper,12,21,183,braun,braun,hell,87,62,92,,
+2,Antje PÃ¶tke ,13,22,180,braun,braun,hell,89,69,88,,
+2,Enyerlina Sanchez ,15,25,183,dunkelbraun,braun,dunkler teint,87,65,96,,
+2,Janine Mackenroth ,15,18,173,blond,blau,hell,87,62,92,,
+3,Jennifer Hof ,1,16,180,blond,grÃ¼n,hell,84,65,91,36,39
+3,Janina Delia Schmidt ,2,24,177,braun,blau,hell,85,61,90,36,39
+3,Christina Leibold ,3,21,175,braun,grÃ¼n,hell,83,62,90,36,42
+3,Carolin Ruppert ,4,24,174,blond,braun/grÃ¼n,hell,91,65,91,36,40
+3,Wanda Badwal ,4,23,173,braun,braun/grÃ¼n,hell,83,61,88,36,37
+3,Gisele Oppermann ,6,20,174,braun,braun ,hell,,,,,
+3,Raquel Deborah Alvarez ,7,22,180,braun,braun,hell,89,63,93,36,39
+3,Sarah Knappik ,8,21,178,blond,blau,hell,87,65,92,36,39
+3,Anna Vanessa Hegelmaier,9,20,178,braun,grau/grÃ¼n,hell,86,61,90,36,37
+3,Sophia Maus ,10,19,179,blond,blau,hell,89,62,93,34,40
+3,Bianca Schumacher ,11,20,173,blond,grÃ¼n,hell,84,60,88,,38
+3,Gina-Lisa Lohfink ,12,21,171,blond,,hell,,,,,
 3,Katharina Yvonne Harms ,12,18,185,,,,,,,,
 3,Elena Rotter ,14,20,170,,,,,,,,
 3,Aline Tausch ,15,20,171,,,,,,,,
@@ -45,116 +45,116 @@ Staffel,Teilnehmerin,Platz,Alter,Größe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist
 3,Aisha Grone ,17,16,169,,,,,,,,
 3,Rubina Radwanski ,17,17,175,,,,,,,,
 3,Sandra Korte ,17,22,178,,,,,,,,
-4,Sara Nuru ,1,19,176,,,,,,,,
-4,Mandy Bork ,2,17,175,,,,,,,,
-4,Marie Nasemann ,3,19,177,,,,,,,,
-4,Jessica Motzkus ,4,20,177,,,,,,,,
-4,Maria Beckmann ,4,19,179,,,,,,,,
-4,Sarina Nowak ,6,16,174,,,,,,,,
-4,Ira Meindl ,7,21,178,,,,,,,,
-4,Larissa Marolt,8,16,175,,,,,,,,
-4,Katrina Scharinger ,9,19,179,,,,,,,,
-4,Stefanie Theissing ,10,21,180,,,,,,,,
-4,Aline Bauer ,11,19,177,,,,,,,,
-4,Tamara Busch ,11,16,175,,,,,,,,
-4,Dana Franke ,13,20,177,,,,,,,,
-4,Tessa Bergmeier ,14,19,180,,,,,,,,
-4,Olivia Bermann ,15,20,177,,,,,,,,
-4,Daphne Braun ,15,17,173,,,,,,,,
-4,Johanna Popp ,15,21,181,,,,,,,,
-5,Alisar Ailabouni ,1,20,178,,,,,,,,
-5,Hanna Bohnekamp ,2,18,173,,,,,,,,
-5,Laura Weyel ,3,23,175,,,,,,,,
-5,Neele Hehemann ,4,21,182,,,,,,,,
-5,Louisa Mazzurana ,5,22,170,,,,,,,,
-5,Pauline Afaja ,6,19,180,,,,,,,,
-5,Leyla Mert ,6,19,180,,,,,,,,
-5,Viktoria Lantratova ,8,22,178,,,,,,,,
-5,Jacqueline Kohl ,9,16,180,,,,,,,,
-5,Wioleta Psiuk ,10,18,179,,,,,,,,
-5,Miriam Höller ,11,22,183,,,,,,,,
-5,Nadine Höcherl ,12,18,180,,,,,,,,
-5,Catherine Kropp ,12,17,180,,,,,,,,
-5,Luisa Krüger ,14,18,176,,,,,,,,
-5,Lara Emsen ,15,16,180,,,,,,,,
-5,Petra Roscheck ,16,25,179,,,,,,,,
-5,Lena Kaiser ,16,17,177,,,,,,,,
-5,Aline Kautz,18,16,180,,,,,,,,
-6,Jana Beller ,1,20,173,,,,,,,,
-6,Rebecca Mir ,2,19,178,,,,,,,,
-6,Amelie Klever ,3,16,173,,,,,,,,
-6,Anna-Lena Schubert ,4,20,176,,,,,,,,
-6,Aleksandra Nagel ,4,21,172,,,,,,,,
-6,Sihe Jiang ,6,18,171,,,,,,,,
-6,Lisa-Maria Könnecke ,7,16,178,,,,,,,,
-6,Marie-Luise Schäfer ,8,21,173,,,,,,,,
-6,Jil Goetz ,9,16,174,,,,,,,,
-6,Joana Damek,10,20,172,,,,,,,,
-6,Sarah Jülich ,11,19,178,,,,,,,,
-6,Isabel Rath ,11,23,180,,,,,,,,
-6,Florence Lodevic ,13,22,176,,,,,,,,
-6,Paulina Kaluza ,14,18,173,,,,,,,,
-6,Natascha Beil ,14,20,173,,,,,,,,
-6,Tahnee Keller ,16,20,179,,,,,,,,
-6,Simone Rohrmüller ,17,18,174,,,,,,,,
-6,Franziska König ,18,18,177,,,,,,,,
-6,Amira Regaieg ,19,20,174,,,,,,,,
-6,Christien Fleischhauer ,20,22,173,,,,,,,,
-6,Ivon Zito ,21,18,177,,,,,,,,
-6,Concetta Mazza ,22,18,171,,,,,,,,
-6,Valerie Blum,23,20,176,,,,,,,,
-6,Lilia Doubrovina ,24,16,174,,,,,,,,
-6,Chiara Isabell Breder ,24,16,173,,,,,,,,
-7,Luisa Hartema ,1,17,178,,,,,,,,
+4,Sara Nuru ,1,19,176,schwarz,braun ,dunkel,78,62,93,34,38.5
+4,Mandy Bork ,2,17,175,blond,blau,hell,80,60,85,36,38
+4,Marie Nasemann ,3,19,177,dunkelbraun,blau/grÃ¼n,hell,85,65,94,36,39
+4,Jessica Motzkus ,4,20,177,dunkelbraun,blau,hell,80,65,89,,
+4,Maria Beckmann ,4,19,179,dunkelbraun,blau,hell,82,66,94,,
+4,Sarina Nowak ,6,16,174,blond,blau,hell,86,62,93,36,39
+4,Ira Meindl ,7,21,178,dunkelbraun,braun ,hell,84,68,92,,
+4,Larissa Marolt,8,16,175,blond,blau/grau,hell,87,63,87,36,40
+4,Katrina Scharinger ,9,19,179,blond,blau,hell,85,66,97,,
+4,Stefanie Theissing ,10,21,180,blond,blau,hell,79,62,87,,
+4,Aline Bauer ,11,19,177,braun,braun ,hell,84,66,94,,
+4,Tamara Busch ,11,16,175,blond,blau,hell,84,63,92,,
+4,Dana Franke ,13,20,177,blond,blau,hell,82,63,93,,
+4,Tessa Bergmeier ,14,19,180,braun,grÃ¼n,hell,86,68,92,,
+4,Olivia Bermann ,15,20,177,braun,braun ,hell,93,66,96,,
+4,Daphne Braun ,15,17,173,braun,blau,hell,80,64,90,,
+4,Johanna Popp ,15,21,181,braun,blau,hell,84,66,96,,
+5,Alisar Ailabouni ,1,20,178,dunkelbraun,braun ,hell,79,71,89,36,40
+5,Hanna Bohnekamp ,2,18,173,blond,blau,hell,84,63,90,,38
+5,Laura Weyel ,3,23,175,blond,blau,hell,80,60,89,,39
+5,Neele Hehemann ,4,21,182,braun,grÃ¼n/grau,hell,81,60,92,36,40
+5,Louisa Mazzurana ,5,22,170,blond,blau,hell,83,60,89,,36
+5,Pauline Afaja ,6,19,180,braun,braun ,dunkel,80,63,84,,41
+5,Leyla Mert ,6,19,180,braun,blau,hell,86,71,91,,40
+5,Viktoria Lantratova ,8,22,178,braun,braun ,hell,87,64,94,,38.5
+5,Jacqueline Kohl ,9,16,180,braun,braun ,hell,83,66,87,,40.5
+5,Wioleta Psiuk ,10,18,179,braun,grÃ¼n,hell,88,64,93,,40.5
+5,Miriam HÃ¶ller ,11,22,183,,,,,,,,
+5,Nadine HÃ¶cherl ,12,18,180,blond,blau,hell,85,65,84,,38
+5,Catherine Kropp ,12,17,180,blond,blau,hell,83,62,90,,40.5
+5,Luisa KrÃ¼ger ,14,18,176,braun,braun ,hell,88,69,94,,40.5
+5,Lara Emsen ,15,16,180,braun,grÃ¼n,hell,87,66,96,,40
+5,Petra Roscheck ,16,25,179,blond,braun ,hell,90,69,95,,39
+5,Lena Kaiser ,16,17,177,blond,blau,hell,89,64,89,,39
+5,Aline Kautz,18,16,180,braun,grÃ¼n,hell,81,63,96,,39
+6,Jana Beller ,1,20,173,braun,braun ,hell,88,58,83,,
+6,Rebecca Mir ,2,19,178,dunkelbraun,braun ,dunkler teint,86,62,87,,
+6,Amelie Klever ,3,16,173,blond,blau,hell,84,63,87,,
+6,Anna-Lena Schubert ,4,20,176,braun,braun ,dunkler teint,83,61,86,,
+6,Aleksandra Nagel ,4,21,172,blond,blau,hell,80,65,90,,
+6,Sihe Jiang ,6,18,171,schwarz,braun ,hell,71,56,87,,
+6,Lisa-Maria KÃ¶nnecke ,7,16,178,braun,braun ,hell,82,64,85,,
+6,Marie-Luise SchÃ¤fer ,8,21,173,dunkelbraun,braun ,hell,82,61,92,,
+6,Jil Goetz ,9,16,174,braun,grÃ¼n,hell,89,65,88,,
+6,Joana Damek,10,20,172,blond,blau,hell,86,61,82,,
+6,Sarah JÃ¼lich ,11,19,178,braun,blau,hell,80,60,90,,
+6,Isabel Rath ,11,23,180,braun,grÃ¼n,hell,83,61,92,,
+6,Florence Lodevic ,13,22,176,braun,braun ,hell,81,66,81,,
+6,Paulina Kaluza ,14,18,173,braun,blau,hell,82,62,89,,
+6,Natascha Beil ,14,20,173,braun,blau,hell,86,64,90,,
+6,Tahnee Keller ,16,20,179,braun,grÃ¼n,hell,88,66,90,34,40
+6,Simone RohrmÃ¼ller ,17,18,174,blond,braun ,hell,81,61,91,,
+6,Franziska KÃ¶nig ,18,18,177,braun,blau,hell,83,62,91,,
+6,Amira Regaieg ,19,20,174,dunkelbraun,braun ,dunkler teint,76,58,87,,
+6,Christien Fleischhauer ,20,22,173,blond,blau,hell,79,60,89,,
+6,Ivon Zito ,21,18,177,dunkelbraun,braun ,dunkler teint,82,64,91,,
+6,Concetta Mazza ,22,18,171,blond,blau,hell,87,66,90,,
+6,Valerie Blum,23,20,176,braun,braun ,hell,91,68,91,,
+6,Lilia Doubrovina ,24,16,174,braun,grÃ¼n,hell,81,65,96,,
+6,Chiara Isabell Breder ,24,16,173,braun,blau,hell,82,61,86,,
+7,Luisa Hartema ,1,17,178,blond,grÃ¼n,hell,,,,,
 7,Sarah-Anessa Hitzschke**,2,18,178,,,,,,,,
 7,Dominique Miller ,3,21,175,,,,,,,,
-7,Katarzyna „Kasia“ Lenhardt ,4,16,173,,,,,,,,
-7,Sara Kulka ,5,21,174,,,,,,,,
+7,Katarzyna â€žKasiaâ€œ Lenhardt ,4,16,173,dunkelblond,blau,hell,90,64,93,34,39
+7,Sara Kulka ,5,21,174,blond,blau/grÃ¼n,hell,92,64,92,36,39
 7,Evelyn Keck,6,18,178,,,,,,,,
 7,Diana Owtschinnikow,7,17,174,,,,,,,,
 7,Lisa Volz ,8,20,173,,,,,,,,
 7,Inga Bobkow ,9,17,173,,,,,,,,
 7,Laura Scharnagl ,10,17,176,,,,,,,,
 7,Shawny Mittag ,11,17,172,,,,,,,,
-7,Melek Civantürk,12,20,175,,,,,,,,
-7,Annabelle Rieß ,13,23,175,,,,,,,,
+7,Melek CivantÃ¼rk,12,20,175,braun,braun ,hell,90,65,93,34,39
+7,Annabelle RieÃŸ ,13,23,175,,,,,,,,
 7,Jasmin Abraha ,14,17,177,,,,,,,,
-7,Maxi Böttcher ,15,17,172,,,,,,,,
+7,Maxi BÃ¶ttcher ,15,17,172,,,,,,,,
 7,Natalia Kowalczykowska ,16,20,177,,,,,,,,
 7,Michelle Luise Lafleur ,16,17,171,,,,,,,,
 7,Anelia Moor ,18,19,174,,,,,,,,
-7,Valerie-Charlotte Kirchner von Schröder ,19,19,175,,,,,,,,
+7,Valerie-Charlotte Kirchner von SchrÃ¶der ,19,19,175,,,,,,,,
 7,Franziska Poehling ,19,18,177,,,,,,,,
 7,Sabine Snobl ,19,19,183,,,,,,,,
-7,Isabell Janku ,19,16,175,,,,,,,,
-8,Lovelyn Enebechi ,1,16,178,,,,,,,,
+7,Isabell Janku ,19,16,175,blond,blau/grau,hell,83,65,89,34,41
+8,Lovelyn Enebechi ,1,16,178,braun,braun ,dunkler teint,87,66,94,36,41
 8,Maike van Grieken ,2,19,176,,,,,,,,
 8,Luise Will ,3,18,183,,,,,,,,
 8,Sabrina Elsner ,4,21,177,,,,,,,,
 8,Anna Maria Damm ,5,16,176,,,,,,,,
 8,Marie Czuczman ,6,16,183,,,,,,,,
 8,Christine Gischler ,7,16,179,,,,,,,,
-8,Carolin Sünderhauf ,8,20,178,,,,,,,,
+8,Carolin SÃ¼nderhauf ,8,20,178,,,,,,,,
 8,Leonie Marwitz ,9,16,176,,,,,,,,
-8,Jacqueline Thießen ,10,17,176,,,,,,,,
+8,Jacqueline ThieÃŸen ,10,17,176,,,,,,,,
 8,Veronika Weddeling ,11,23,179,,,,,,,,
 8,Janna Wiese ,12,19,176,,,,,,,,
 8,Jessika Weidner ,13,16,178,,,,,,,,
 8,Anna-Barbara Seebrecht ,14,17,176,,,,,,,,
 8,Sophie,15,23,176,,,,,,,,
-8,Leandra Martin ,16,18,182,,,,,,,,
+8,Leandra Martin ,16,18,182,blond,blau,hell,82,62,90,34,41
 8,Bingyang Liu,17,18,180,,,,,,,,
-8,Höpke Voß,17,19,176,,,,,,,,
+8,HÃ¶pke VoÃŸ,17,19,176,,,,,,,,
 8,Michelle Maas ,19,16,180,,,,,,,,
 8,Lisa-Giulia Wende ,20,17,176,,,,,,,,
 9,Stefanie Giesinger ,1,17,178,,,,,,,,
 9,Jolina Fust ,2,17,180,,,,,,,,
-9,Ivana Teklic ,3,18,178,,,,,,,,
-9,Betty Taube ,4,18,176,,,,,,,,
+9,Ivana Teklic ,3,18,178,blond,blau,hell,81,56,89,,
+9,Betty Taube ,4,18,176,braun,braun ,hell,86,60,90,34,39
 9,Aminata Sanogo,4,18,178,,,,,,,,
 9,Nathalie Volk ,4,16,175,,,,,,,,
 9,Karlin Ivana Obiango ,7,17,176,,,,,,,,
-9,Nancy Nagel ,7,21,178,,,,,,,,
+9,Nancy Nagel ,7,21,178,blond,grÃ¼n,hell,90,64,92,34,39
 9,Samantha Brock ,9,17,179,,,,,,,,
 9,Anna Wilken,10,17,181,,,,,,,,
 9,Sarah Weinfurter ,11,16,176,,,,,,,,
@@ -169,7 +169,7 @@ Staffel,Teilnehmerin,Platz,Alter,Größe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist
 9,Pauline Cottin,20,18,178,,,,,,,,
 9,Laura Haas,20,19,176,,,,,,,,
 9,Ina Bartak,20,21,176,,,,,,,,
-9,Fata Hasanovic,20,18,176,,,,,,,,
+9,Fata HasanoviÄ‡,20,18,176,,,,,,,,
 9,Lisa Seibert ,24,18,178,,,,,,,,
 9,Jill Schmitz ,24,22,,,,,,,,,
 10,Vanessa Fuchs ,1,18,178,,,,,,,,
@@ -177,14 +177,14 @@ Staffel,Teilnehmerin,Platz,Alter,Größe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist
 10,Ajsa Selimovic ,3,18,175,,,,,,,,
 10,Katharina Wandrowsky ,4,18,178,,,,,,,,
 10,Darya Strelnikova ,5,21,173,,,,,,,,
-10,Lisa Bärmann ,6,19,176,,,,,,,,
-10,Jülide „Jüli“ Ürküt ,6,16,175,,,,,,,,
-10,Chiara „Kiki“ Hölzl ,8,17,179,,,,,,,,
+10,Lisa BÃ¤rmann ,6,19,176,,,,,,,,
+10,JÃ¼lide â€žJÃ¼liâ€œ ÃœrkÃ¼t ,6,16,175,,,,,,,,
+10,Chiara â€žKikiâ€œ HÃ¶lzl ,8,17,179,,,,,,,,
 10,Sara Faste ,9,16,178,,,,,,,,
-10,Laura Dünninger ,9,17,180,,,,,,,,
-10,Varisa Caluk ,11,16,185,,,,,,,,
-10,Sandy Provázek ,11,19,174,,,,,,,,
-10,Érica Santos Silva ,13,21,175,,,,,,,,
+10,Laura DÃ¼nninger ,9,17,180,,,,,,,,
+10,Varisa ÄŒaluk ,11,16,185,,,,,,,,
+10,Sandy ProvÃ¡zek ,11,19,174,,,,,,,,
+10,Ã‰rica Santos Silva ,13,21,175,,,,,,,,
 10,Neele Busse ,14,18,177,,,,,,,,
 10,Irene Pichler ,14,20,176,,,,,,,,
 10,Daniela Wolking ,16,22,187,,,,,,,,
@@ -196,9 +196,9 @@ Staffel,Teilnehmerin,Platz,Alter,Größe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist
 10,Annabel Paasch,22,16,183,,,,,,,,
 10,Sarah Kocar,22,17,173,,,,,,,,
 11,Kim Hnizdo ,1,19,175,,,,,,,,
-11,Elena Carrière ,2,19,177,,,,,,,,
+11,Elena CarriÃ¨re ,2,19,177,dunkelblond,grÃ¼n,hell,81,60,90,34,38
 11,Fata Hasanovic,3,20,176,,,,,,,,
-11,Jasmin Lekudere ,4,20,177,,,,,,,,
+11,Jasmin Lekudere ,4,20,177,braun,braun ,hell,82,65,89,,39.5
 11,Taynara Joy Silva Wolf ,5,19,174,,,,,,,,
 11,Lara Helmer ,6,20,176,,,,,,,,
 11,Elena Kilb ,7,19,180,,,,,,,,
@@ -208,71 +208,71 @@ Staffel,Teilnehmerin,Platz,Alter,Größe,Haarfarbe,Augenfarbe,Hautfarbe,Bust,Waist
 11,Julia Wulf,11,20,176,,,,,,,,
 11,Camilla Cavalli ,12,18,179,,,,,,,,
 11,Lara-Kristin Bayer ,13,17,180,,,,,,,,
-11,Yusra Babekr-Ali ,14,18,174,,,,,,,,
-11,Christin Götzke ,14,18,176,,,,,,,,
-11,Laura Bräutigam ,16,16,175,,,,,,,,
-11,Jennifer Daschner ,16,17,176,,,,,,,,
-11,Cindy Unger ,18,21,176,,,,,,,,
+11,Yusra Babekr-Ali ,14,18,174,braun,braun ,dunkel,81,63,91,,39
+11,Christin GÃ¶tzke ,14,18,176,blond,blau,hell,85,60,95,34,39
+11,Laura BrÃ¤utigam ,16,16,175,blond,grÃ¼n,hell,87,65,98,,39
+11,Jennifer Daschner ,16,17,176,blond,braun ,hell,85,69,90,,39
+11,Cindy Unger ,18,21,176,blond,blau,hell,84,63,91,34,
 11,Shirin Kelly ,19,24,174,,,,,,,,
 11,Sophie Schweer ,19,20,176,,,,,,,,
-11,Saskia Böhlcke ,21,18,174,,,,,,,,
-11,Laura Penelope Baumgärtner,21,19,171,,,,,,,,
-11,Friederike „Fred“ Riss ,21,17,175,,,,,,,,
+11,Saskia BÃ¶hlcke ,21,18,174,,,,,,,,
+11,Laura Penelope BaumgÃ¤rtner,21,19,171,,,,,,,,
+11,Friederike â€žFredâ€œ Riss ,21,17,175,,,,,,,,
 11,Luisa Bolghiran,24,19,,,,,,,,,
-12,Céline Bethmann ,1,18,181,,,,,,,,
-12,Serlina Hohmann,2,22,178,,,,,,,,
-12,Romina Brennecke ,3,20,183,,,,,,,,
+12,CÃ©line Bethmann ,1,18,181,rotblond,blau,hell,80,58,87,34,40
+12,Serlina Hohmann,2,22,178,blond,blau,hell,79,61,91,36,38.5
+12,Romina Brennecke ,3,20,183,braun,blau/grÃ¼n,hell,86,67,96,36,41.5
 12,Leticia Wala-Ntumba,4,18,176,,,,,,,,
 12,Maja Manczak ,5,19,180,,,,,,,,
-12,Lynn Petertonkoker ,5,18,179,,,,,,,,
+12,Lynn Petertonkoker ,5,18,179,braun,braun ,hell,84,64,95,36,40.5
 12,Carina Zavline ,7,19,174,,,,,,,,
 12,Anh-Phuong Dinh Phan,8,25,176,,,,,,,,
 12,Sabine Fischer ,9,23,176,,,,,,,,
-12,Brenda Hübscher ,10,23,184,,,,,,,,
+12,Brenda HÃ¼bscher ,10,23,184,,,,,,,,
 12,Giuliana Radermacher ,11,20,178,,,,,,,,
 12,Soraya Eckes ,12,17,,,,,,,,,
-12,Julia Steyns ,13,23,180,,,,,,,,
-12,Greta Faeser,14,21,177,,,,,,,,
-12,Julia Fux ,15,20,177,,,,,,,,
+12,Julia Steyns ,13,23,180,dunkelbraun,dunkelbraun,hell,84,65,92,36,40
+12,Greta Faeser,14,21,177,braun,grÃ¼n,hell,81,62,86,,
+12,Julia Fux ,15,20,177,braun,grÃ¼n,hell,83,61,91,34,40
 12,Neele Bronst ,16,20,176,,,,,,,,
 12,Melina Budde ,17,19,181,,,,,,,,
-12,Deborah Lay ,18,21,177,,,,,,,,
-12,Aissatou Niang,19,18,174,,,,,,,,
-12,Helena Fritz,20,18,180,,,,,,,,
+12,Deborah Lay ,18,21,177,braun,braun ,hell,86,64,92,36,39.5
+12,Aissatou Niang,19,18,174,dunkelbraun,dunkelbraun,dunkel,84,64,94,36,39
+12,Helena Fritz,20,18,180,braun,blau,hell,84,64,89,,
 12,Kimberly Pereira ,21,18,,,,,,,,,
 12,Chaline Bang ,21,16,,,,,,,,,
 12,Milena Ziller ,21,18,,,,,,,,,
 12,Claudia Fiedler,24,22,,,,,,,,,
 12,Victoria Wanke ,25,16,182,,,,,,,,
 12,Elisa Weihmann ,25,16,,,,,,,,,
-12,Saskia Mächler ,27,19,,,,,,,,,
+12,Saskia MÃ¤chler ,27,19,,,,,,,,,
 12,Christina Wiessner ,,19,,,,,,,,,
-13,Toni Dreher-Adenuga ,1,17,,,,,,,,,
-13,Julianna Townsend ,2,19,,,,,,,,,
-13,Pia Riegel ,3,22,,,,,,,,,
-13,Christina Peno ,4,21,180,,,,,,,,
-13,Jennifer Michalcyzk ,5,23,,,,,,,,,
-13,Sally Haas ,6,17,183,,,,,,,,
+13,Toni Dreher-Adenuga ,1,17,180,schwarz,dunkelbraun,dunkel,88,63,90,34,40.5
+13,Julianna Townsend ,2,19,173,dunkelbraun,braun ,dunkler teint,83,64,89,34,38.5
+13,Pia Riegel ,3,22,178,dunkelblond,grÃ¼n,hell,98,69,88,36,40
+13,Christina Peno ,4,21,180,braun,blau/grÃ¼n,hell,85,72,98,36,41
+13,Jennifer Michalcyzk ,5,23,178,braun,blau,hell,83,60,89,34,40.5
+13,Sally Haas ,6,17,184,blond,braun/grÃ¼n,hell,75,65,95,36,41
 13,Sara Leutenegger,7,23,178,,,,,,,,
-13,Klaudia Giez,,21,,,,,,,,,
-13,Trixi Giese ,9,18,,,,,,,,,
+13,Klaudia Giez,7,21,175,dunkelbraun,grÃ¼n,hell,80,60,90,34,39
+13,Trixi Giese ,9,18,174,blond,blau/grau,hell,75,59,91,32,38
 13,Zoe Saip ,10,18,,,,,,,,,
 13,Victoria Pavlas ,11,19,180,,,,,,,,
-13,Bruna Rodrigues ,,24,,,,,,,,,
+13,Bruna Rodrigues ,11,24,,,,,,,,,
 13,Abigail Odoom ,13,20,,,,,,,,,
-13,Shari Streich,14,23,,,,,,,,,
-13,Stephanie „Steffi“ Groll ,15,19,,,,,,,,,
+13,Shari Streich,14,23,176,schwarz,braun/grÃ¼n,dunkel,86,60,88,34,40
+13,Stephanie â€žSteffiâ€œ Groll ,15,19,,,,,,,,,
 13,Anne Volkmann ,16,23,,,,,,,,,
 13,Gerda Lewis,17,25,,,,,,,,,
-13,Sarah Amiri ,18,18,,,,,,,,,
-13,Isabella Özdemir ,19,22,,,,,,,,,
-13,Franziska Schwager ,,21,,,,,,,,,
+13,Sarah Amiri ,18,18,176,dunkelbraun,braun ,hell,90,72,93,36,40.5
+13,Isabella Ã–zdemir ,19,22,,,,,,,,,
+13,Franziska Schwager ,19,21,180,braun,grÃ¼n,hell,86,62,91,36,40
 13,Karoline Seul,21,19,,,,,,,,,
-13,Cindy Valèrie Wersche ,22,23,,,,,,,,,
-13,Elisabeth „Lis“ Kanzler ,,22,,,,,,,,,
+13,Cindy ValÃ¨rie Wersche ,22,23,,,,,,,,,
+13,Elisabeth â€žLisâ€œ Kanzler ,22,22,174,dunkelbraun,braun ,dunkler teint,84,64,90,,
 13,Julia Freimuth ,24,17,,,,,,,,,
 13,Liane Polt,25,17,,,,,,,,,
 13,Lania Barzanji ,26,21,,,,,,,,,
-13,Viktoria Wendell ,,21,,,,,,,,,
-13,Ivana Rajic-Hrnjic,,22,,,,,,,,,
+13,Viktoria Wendell ,26,21,,,,,,,,,
+13,Ivana RajiÄ‡-HrnjiÄ‡,26,22,,,,,,,,,
 13,Selma Toroy,29,24,,,,,,,,,
